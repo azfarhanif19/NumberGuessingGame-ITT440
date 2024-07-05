@@ -1,1 +1,1 @@
-# NumberGuussingGame-ITT440
+# NumberGuessingGame-ITT440
